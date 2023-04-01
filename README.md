@@ -6,4 +6,4 @@ This project involves the analysis and visualization of trends in the data scien
 3. Data Analytics Lead is the best paying data science role by average salary.
 4. There has been a steady increase in average pay per year.
 5. The contract workers are the highest paid by average salary even though most employees work full time.
-6. The number of remote workers have increased over the years, this may be due to the 2022 global lock down as a result of the COVID-19 pandemic. Average pay has also increased.
+6. The number of remote workers have increased over the years, this may be due to the 2020 global lock down as a result of the COVID-19 pandemic. Average pay has also increased.
